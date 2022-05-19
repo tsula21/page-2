@@ -467,7 +467,11 @@ li .name1{
     line-height: 1.6;
 }
 
-
+.experience__description p span{
+    color: #ffb400;
+    font-weight: 600;
+    word-spacing: 3px;
+}
 
 
 

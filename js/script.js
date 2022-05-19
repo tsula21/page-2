@@ -33,10 +33,10 @@ let progressValue = 0;
 let progressValueJs = 0;
 let progressValuePs = 0;
 // END VALUES
-let progressEndValueHtml = 25;
-let progressEndValueCss = 70;
-let progressEndValueJs = 89;
-let progressEndValuePs = 90;
+let progressEndValueHtml = 81;
+let progressEndValueCss = 80;
+let progressEndValueJs = 60;
+let progressEndValuePs = 10;
 
 let speed = 20;
 
