@@ -35,7 +35,7 @@ let progressValuePs = 0;
 // END VALUES
 let progressEndValueHtml = 81;
 let progressEndValueCss = 80;
-let progressEndValueJs = 60;
+let progressEndValueJs = 40;
 let progressEndValuePs = 10;
 
 let speed = 20;
