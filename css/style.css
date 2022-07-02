@@ -445,6 +445,7 @@ li .name1{
 
 .experience__description ul li:first-child{
     font-size: 18px;
+    text-transform: uppercase;
 }
 
 .experience__description ul li:nth-child(2){
